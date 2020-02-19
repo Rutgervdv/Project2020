@@ -1,0 +1,351 @@
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+  #juice_header_sect {
+    width: 100vw;
+  }
+
+    #juice_header h1{
+     font-size: 7em;
+     margin-left: 1em;
+     margin-top: 0.5em;
+  }
+
+  #lucid_dreams h2{
+    font-size: 5.5em;
+    margin-top: 0.5em;
+    margin-right: 0.2em;
+  }
+
+  #juice_header_sect h4 {
+  font-size: 2em;
+  margin-left: 11em;
+  }
+
+  .outer{
+    margin-top: 10em;
+  }
+
+  .top {
+    width: 20em;
+    height: 15em;
+  }
+
+  .top p {
+    font-size: 0.8em;
+    margin-top: 5em;
+  }
+
+  .bot {
+    width: 25em;
+    height: 19em;
+    position: absolute;
+    margin-left: -11em;
+  }
+
+  .outer2 {
+    position: relative;
+    margin-top: 50px;
+  }
+
+  .top2 {
+    position: absolute;
+    right: 0;
+    margin-top: 10em;
+  }
+
+  .bot2 {  
+    position: absolute;
+    position: absolute;
+    right: 0;
+  }
+
+  #second_page_left h6 {
+    font-size: 5em;
+    margin-top: 0.5em;
+  }
+
+  #second_page_right h6 {
+    margin-top:4em;
+  }
+
+  .bot2 img {
+    width: 30em;
+  }
+
+  .top2 img {
+    width: 10em;
+  }
+
+  .outer3 {
+    margin-top: 20px;
+  }
+
+  .top3 {
+    margin-top: 8.5em;
+    margin-left: 15em;
+  }
+
+  .bot3 {
+    margin-top: 1em;
+  }
+
+  .bot3 img {
+    width: 22em;
+  }
+
+  .top3 img {
+    width: 15em;
+  }
+
+  #black_box_content {
+    margin-top: 7em;
+  }
+
+  .link {
+    font-size: 1em;
+  }
+
+  #next_artist_container img {
+    width: 0.5em;
+  }
+
+
+
+}
+
+
+@media only screen and (min-width: 1030px) and (max-height: 1366px)
+    and (-webkit-min-device-pixel-ratio: 1.5) and (hover: none) {
+    body {
+      background-color: red;
+    }
+
+      #juice_header_sect {
+    width: 100vw;
+  }
+
+    #juice_header h1{
+     font-size: 8em;
+     margin-left: 1em;
+     margin-top: 0.5em;
+  }
+
+  #lucid_dreams h2{
+    font-size: 6.5em;
+    margin-top: 0.5em;
+    margin-right: 0.2em;
+  }
+
+  #juice_header_sect h4 {
+  font-size: 2.5em;
+  margin-left: 11em;
+  }
+
+  .outer{
+    margin-top: 14em;
+  }
+
+  .top {
+    width: 20em;
+    height: 15em;
+  }
+
+  .top p {
+    font-size: 0.9em;
+    margin-top: 3em;
+  }
+
+  .bot {
+    width: 25em;
+    height: 19em;
+    position: absolute;
+    margin-left: -11em;
+  }
+
+  .outer2 {
+    position: relative;
+    margin-top: 50px;
+  }
+
+  .top2 {
+    position: absolute;
+    right: 0;
+    margin-top: 10em;
+  }
+
+  .bot2 {  
+    position: absolute;
+    position: absolute;
+    right: 0;
+  }
+
+  #second_page_left h6 {
+    font-size: 5em;
+    margin-top: 0.5em;
+  }
+
+  #second_page_right h6 {
+    margin-top:4em;
+  }
+
+  .bot2 img {
+    width: 30em;
+  }
+
+  .top2 img {
+    width: 10em;
+  }
+
+  .outer3 {
+    margin-top: 20px;
+  }
+
+  .top3 {
+    margin-top: 8.5em;
+    margin-left: 15em;
+  }
+
+  .bot3 {
+    margin-top: 1em;
+  }
+
+  .bot3 img {
+    width: 22em;
+  }
+
+  .top3 img {
+    width: 15em;
+  }
+
+  #black_box_content {
+    margin-top: 7em;
+  }
+
+  .link {
+    font-size: 1em;
+  }
+
+  #next_artist_container img {
+    width: 0.5em;
+  }
+
+
+}
+
+@media only screen 
+  and (min-width: 834px) 
+  and (max-height: 1366px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1.5) {
+    body {
+      background-color: red;
+    }
+
+      #juice_header h1{
+     font-size: 6em;
+     margin-left: 1em;
+     margin-top: 0.5em;
+  }
+
+  #lucid_dreams h2{
+    font-size: 7em;
+    margin-top: 1em;
+    margin-right: 0.2em;
+  }
+
+  #juice_header_sect h4 {
+  font-size: 2.5em;
+  margin-left: 11em;
+  }
+
+  .outer{
+    margin-top: 25em;
+  }
+
+  .top {
+    width: 20em;
+    height: 15em;
+  }
+
+  .top p {
+    font-size: 1em;
+    margin-top: -3em;
+  }
+
+  .bot {
+    width: 25em;
+    height: 19em;
+    position: absolute;
+    margin-left: -11em;
+  }
+
+  .outer2 {
+    position: relative;
+    margin-top: 50px;
+  }
+
+  .top2 {
+    position: absolute;
+    right: 0;
+    margin-top: 10em;
+  }
+
+  .bot2 {  
+    position: absolute;
+    position: absolute;
+    right: 0;
+  }
+
+  #second_page_left h6 {
+    font-size: 5em;
+    margin-top: 0.5em;
+  }
+
+  #second_page_right h6 {
+    margin-top:4em;
+    padding-left: 0.3em;
+    font-size: 7em;
+  }
+
+  .bot2 img {
+    width: 25em;
+  }
+
+  .top2 img {
+    width: 10em;
+  }
+
+  .outer3 {
+    margin-top: 20px;
+  }
+
+  .top3 {
+    margin-top: 8.5em;
+    margin-left: 15em;
+  }
+
+  .bot3 {
+    margin-top: 1em;
+  }
+
+  .bot3 img {
+    width: 22em;
+  }
+
+  .top3 img {
+    width: 15em;
+  }
+
+  #black_box_content {
+    margin-top: 7em;
+  }
+
+  .link {
+    font-size: 1em;
+  }
+
+  #next_artist_container img {
+    width: 0.5em;
+  }
+}
