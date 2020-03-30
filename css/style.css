@@ -14,27 +14,44 @@ h1:hover {
     color: white;
 }
 
-.vcenter {
+
+.logo {
     display: table;
-    background: #eee; /* optional */
-    width: 150px;
-    height: 50px;
-    text-align: center; /* optional */
+    border: solid 2px  #EDB581;
+    width: 200px;
+    text-align: center; 
+    border-radius: 7px;
+    margin-left: 50em;
 }
 
-.vcenter > :first-child {
-    display: table-cell;
-    vertical-align: middle;
+.logo p:hover {
+    background-color: white;
+    border-radius: 7px;
+    color:#4F1C2D;
+    letter-spacing: 15px;
+    font-size: 2.2em;
+    padding-left: 0.4em;;
+    transition: all ease-in 0.5s;
+    border: solid #4F1C2D;
+    cursor: pointer;
+}
+
+.logo p {
+    color:  #EDB581;
+    font-size: 2em;
+    padding: 28px 0px;
+    margin: 0;
 }
 
 #nav_ul {
     list-style: none;
+    align-self: center;
 }
 
 #nav li {
     display: inline-block;
     color:  #EDB581 ;
-    font-size: 1.1em;
+    font-size: 1.3em;
 }
 
 #nav a{
