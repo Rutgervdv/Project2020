@@ -24,8 +24,12 @@ h1:hover {
     margin-left: 50em;
 }
 
+#letter_color:hover {
+    color: white;
+}
+
 .logo p:hover {
-    background-color: white;
+    /* background-color: white; */
     border-radius: 7px;
     color:#4F1C2D;
     letter-spacing: 15px;
